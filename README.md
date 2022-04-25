@@ -3,6 +3,7 @@
 Contenido del mini curso creando una **librería de validación con vanillajs y alpinejs** 😁
 
 -   Capitulo 1 - **Por definir...**: [Link]()
+[template](https://gist.github.com/luispastendev/f342cf56a1655bfd7feea30230db2ffd)
 
 Grupo de Facebook: [Link...](https://www.facebook.com/groups/codeigniter4)
 
