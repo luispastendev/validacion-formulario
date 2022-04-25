@@ -60,20 +60,3 @@ class Rules {
         return /^[1-9]?[0-9]{1}$|^100$/.test(data);
     }
 }
-
-// setRules(rules)
-// run(data)  true / false
-// getErrors 
-
-// const validator = new Validator();
-// validator.setRules({
-//     name: 'required',
-//     age: 'required|is_valid_age'
-// });
-
-// if (!validator.run({
-//         name: 'sdfg',
-//         age: 101
-//     })) {
-//     console.log(validator.getErrors());
-// }
