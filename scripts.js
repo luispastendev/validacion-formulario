@@ -35,7 +35,7 @@ const form = {
     },
     setErrors() {
         const errors = this.validator.getErrors();
-            
+        
         for (const field in this.data) {
             if (field in errors) {
                 let messages = ``
